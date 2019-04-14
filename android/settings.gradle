@@ -1,0 +1,3 @@
+rootProject.name = 'battle_off_2274'
+
+include ':app'
